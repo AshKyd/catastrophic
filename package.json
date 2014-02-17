@@ -1,0 +1,14 @@
+{
+  "name": "catastrophic",
+  "version": "0.1",
+  "description": "An error message generator for Javascript/node.",
+  "license": "Public Domain",
+  "homepage": "https://github.com/AshKyd/catastrophic",
+  "bugs": "https://github.com/AshKyd/catastrophic/issues",
+  "author": "Ash Kyd",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AshKyd/catastrophic.git"
+  }
+}
